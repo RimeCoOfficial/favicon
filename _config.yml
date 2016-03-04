@@ -15,7 +15,7 @@ title:            WWW
 tagline:          'World Wide Web'
 description:      'Connecting Worlds Information'
 url:              http://www.rime.co
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Rime'
