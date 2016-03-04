@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: Jobs
 ---
 
 [@girishnayak12] fill this
