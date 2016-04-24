@@ -1,7 +1,3 @@
-# World Wide Web
+# WWW
 
-> <p>The <b>World Wide Web</b> (<b>WWW</b>) is an <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Open_source" title="Open source">open source</a> <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Information_space" title="Information space">information space</a> where documents and other <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Web_resource" title="Web resource">web resources</a> are identified by <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/URL" title="URL" class="mw-redirect">URLs</a>, interlinked by <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Hypertext" title="Hypertext">hypertext</a> links, and can be accessed via the <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Internet" title="Internet">Internet</a>.<sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/World_Wide_Web#cite_note-1"><span>[</span>1<span>]</span></a></sup> The World Wide Web was invented by English scientist <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> in 1989. He wrote the first web browser in 1990 while employed at <a href="https://en.wikipedia.org/wiki/World_Wide_Web/wiki/CERN" title="CERN">CERN</a> in Switzerland.<sup id="cite_ref-2" class="reference"><a href="https://en.wikipedia.org/wiki/World_Wide_Web#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-AHT_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/World_Wide_Web#cite_note-AHT-3"><span>[</span>3<span>]</span></a></sup></p>
->
-> &mdash; [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-
-Or we (sometimes) call it **World Wide Weed!** 🍀🍀🍀
+World Wide Wiki
