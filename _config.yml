@@ -7,7 +7,7 @@ gems:             [jekyll-gist, jekyll-sitemap]
 permalink:        pretty
 
 # Setup
-title:            WWWW
+title:            WWW
 description:      'World Wide Wiki'
 baseurl:          /
 
