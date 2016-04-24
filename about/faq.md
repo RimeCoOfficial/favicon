@@ -1,6 +1,0 @@
----
-layout: page
-title: FAQ
----
-
-[@girishnayak12] fill this
