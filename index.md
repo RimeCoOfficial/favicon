@@ -15,3 +15,13 @@ title: Home
 > <a href="https://en.wikipedia.org/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a>, the developer of the first wiki software, <a href="https://en.wikipedia.org/wiki/WikiWikiWeb" title="WikiWikiWeb">WikiWikiWeb</a>, originally described it as "the simplest online database that could possibly work".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> "<a href="https://en.wiktionary.org/wiki/wiki#Hawaiian" class="extiw" title="wikt:wiki">Wiki</a>" (pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="https://en.wikipedia.org/wiki/Help:IPA_for_Hawaiian" title="Help:IPA for Hawaiian">[ˈwiki]</a></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>) is a <a href="https://en.wikipedia.org/wiki/Hawaiian_language" title="Hawaiian language">Hawaiian</a> word meaning "quick".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 >
 > &mdash; [Wiki](https://en.wikipedia.org/wiki/Wiki) *From Wikipedia, the free encyclopedia*
+
+
+## Publications
+
+<div class="list-group">
+  <a href="/jelly-bean" class="list-group-item">Jelly Bean</a>
+  <a href="/about" class="list-group-item">About</a>
+  <a href="/mails" class="list-group-item">Mails</a>
+  <a href="/postmaster" class="list-group-item">Postmaster</a>
+</div>
