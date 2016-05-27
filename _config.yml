@@ -9,9 +9,9 @@ permalink:        pretty
 # Setup
 title:            WWW
 description:      'World Wide Wiki'
-baseurl:          /
+baseurl:          
 
-asset_url:        https://static.rime.co
+asset_url:        https://rimeofficial.github.io/static
 
 # Custom vars
 version:          1.0.0
