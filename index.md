@@ -24,7 +24,7 @@ title: Home
   {% for repo in public_repositories %}
     {% if repo.has_pages == true %}
       {% if repo.private == false %}
-        <a href="/{{ repo.name }}" class="list-group-item">
+        <a href="/{{ repo.name }}" class="list-group-item" target="_blank">
           {{ repo.name }} - {{ repo.description }}
         </a>
       {% endif %}
