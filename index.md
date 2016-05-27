@@ -20,8 +20,14 @@ title: Home
 ## Publications
 
 <div class="list-group">
-  <a href="/jelly-bean" class="list-group-item">Jelly Bean</a>
-  <a href="/about" class="list-group-item">About</a>
-  <a href="/mails" class="list-group-item">Mails</a>
-  <a href="/postmaster" class="list-group-item">Postmaster</a>
+  {% assign public_repositories = site.github.public_repositories %}
+  {% for repo in public_repositories %}
+    {% if repo.has_pages == true %}
+      {% if repo.private == false %}
+        <a href="/{{ repo.name }}" class="list-group-item">
+          {{ repo.name }} - {{ repo.description }}
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </div>
