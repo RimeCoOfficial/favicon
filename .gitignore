@@ -20,7 +20,7 @@ _site
 *~
 
 # OS or Editor folders
-.DS_Store
+
 ._*
 Thumbs.db
 .cache
